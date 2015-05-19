@@ -15,7 +15,10 @@ var RevealMath = window.RevealMath || (function(){
 		MathJax.Hub.Config({
 			messageStyle: 'none',
 			tex2jax: { inlineMath: [['$','$'],['\\(','\\)']] },
-			skipStartupTypeset: true
+			skipStartupTypeset: true,
+			displayAlign: 'left',
+			showMathMenu: false,
+			processEscapes: true
 		});
 
 		// Typeset followed by an immediate reveal.js layout since
