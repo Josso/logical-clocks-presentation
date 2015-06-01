@@ -6,9 +6,9 @@ Slides, information and images are based on the book “Distributed Systems: Pri
 
 ## Viewing
 
-The raw slides can be found in [`slides.md`](https://github.com/Josso/logical-clocks-presentation/blob/master/slides.md) and a PDF-version can be found in [`logical-clocks.pdf`](https://github.com/Josso/logical-clocks-presentation/blob/master/logical-clocks.pdf).
+The raw slides can be found in [`slides.md`](https://github.com/johankj/logical-clocks-presentation/blob/master/slides.md) and a PDF-version can be found in [`logical-clocks.pdf`](https://github.com/johankj/logical-clocks-presentation/blob/master/logical-clocks.pdf).
 
-You can view the interactive version [from the `gh-pages`-branch](http://josso.github.io/logical-clocks-presentation/).
+You can view the interactive version [from the `gh-pages`-branch](http://johankj.github.io/logical-clocks-presentation/).
 
 ## Running
 
